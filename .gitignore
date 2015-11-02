@@ -11,3 +11,15 @@
 /log/*
 !/log/.keep
 /tmp
+/public/images
+/public/system
+/public/uploads
+database.yml
+secrets.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
